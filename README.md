@@ -15,7 +15,6 @@
 
   - ⚛️ **React** (with TypeScript) – Functional components and prop-driven design
   - 🎨 **Tailwind CSS** – Utility-first styling with responsive design baked in
-  - 🖼️ **SVG Background** – Seamlessly embedded wave SVG via `data:image/svg+xml`
   - 📱 Mobile-first responsive design approach
 
   ## ✨ Features
