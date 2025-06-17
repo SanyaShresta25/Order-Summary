@@ -69,4 +69,3 @@
 
   - Inspired by [Frontend Mentor – Order Summary Card Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
   - Shoutout to the dev community for Tailwind tips and best practices!
-*/
