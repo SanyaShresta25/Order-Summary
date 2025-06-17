@@ -5,7 +5,7 @@
   ## 🚀 Live Demo
 
   - 🌐 **Live Site URL**: [View it in action](https://your-live-site-url.com)
-  - 💻 **Solution URL**: [See the code](https://github.com/your-username/order-summary-card)
+  - 💻 **Solution URL**: [See the code](https://github.com/SanyaShresta25/Order-Summary)
 
   ## 📸 Screenshot
 
@@ -37,8 +37,8 @@
 
   ```bash
   # Clone the repo
-  git clone https://github.com/your-username/order-summary-card.git
-  cd order-summary-card
+  git clone https://github.com/SanyaShresta25/my-app.git
+  cd my-app
 
   # Install dependencies
   npm install
@@ -46,18 +46,6 @@
   # Run the app
   npm run dev
   ```
-
-  ## 📁 Folder Structure
-
-  ├── public/
-  ├── src/
-  │   ├── assets/         # SVG and image files
-  │   ├── components/     # Reusable components (e.g., OrderSummary.tsx)
-  │   ├── App.tsx         # Main app rendering the OrderSummary
-  │   ├── main.tsx        # Entry point
-  │   └── index.css       # Tailwind CSS styles
-  ├── vite.config.ts
-  └── README.md
 
   ## 🔄 Future Enhancements
 
