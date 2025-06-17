@@ -4,7 +4,7 @@
 
   ## 🚀 Live Demo
 
-  - 🌐 **Live Site URL**: [View it in action](https://your-live-site-url.com)
+  - 🌐 **Live Site URL**: [View it in action](https://order-summary-snowy.vercel.app/)
   - 💻 **Solution URL**: [See the code](https://github.com/SanyaShresta25/Order-Summary)
 
   ## 📸 Screenshot
